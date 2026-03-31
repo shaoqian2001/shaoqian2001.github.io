@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[Github]</a><a href='#'>[CV]</a>
+subtitle: Santa Barbara, CA | <a href='mailto:sqzhou7@gmail.com'>sqzhou7@gmail.com</a> | <a href='https://github.com/sqzhou7'>GitHub</a> | <a href='https://www.linkedin.com/in/shaoqian-zhou'>LinkedIn</a>
 
 profile:
   align: right
@@ -10,14 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   address:
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Electrical and Computer Engineering at the **University of Michigan** (starting Fall 2026). I received my M.S. in Electrical and Computer Engineering from **UC Santa Barbara** and my B.E. (Honors) in Computer Engineering from the **University of New South Wales**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in computer architecture, with a focus on high-performance processor and accelerator design. I have experience in RISC-V architecture, FPGA design, VLSI circuit design, and hardware-software co-design for AI/HPC workloads.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I have interned at **WaveEdge** (processor architecture), **Canopus Networks** (software engineering), and **Arista Networks** (FPGA design engineering), and worked as a research assistant at the **Chinese University of Hong Kong**.

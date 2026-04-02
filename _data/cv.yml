@@ -25,14 +25,14 @@
   type: time_table
   contents:
     - title: Processor Architecture Intern
-      institution: WaveEdge, Mentor: Zhaoying Li
+      institution: "WaveEdge, Mentor: Zhaoying Li"
       year: 06/2025 - 09/2025
       description:
         - Performance benchmark and bottleneck analysis of open-source RISC-V vector units on common AI/HPC kernels.
         - Develop a Gem5 performance model for a RISC-V RoCC dataflow accelerator, based on open-source high-perf CPU core.
         - Design RISC-V ISA extensions and develop kernels for the dataflow accelerator, achieving 3~20% performance improvement on common workloads under similar power and area when compared to vector units.
     - title: Research Assistant
-      institution: Chinese University of Hong Kong, Advisor: Tinghuan Chen
+      institution: "Chinese University of Hong Kong, Advisor: Tinghuan Chen"
       year: 03/2024 - 07/2024
       description:
         - Develop a ML (RL+GNN) framework for automated PPA estimation and optimization of HLS-based accelerator design.

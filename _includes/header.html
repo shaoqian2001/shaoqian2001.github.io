@@ -69,10 +69,18 @@
                   {%- endif -%}
                 </a>
               </li>
-              <!-- Repository -->
+              <!-- Projects -->
               <li class="nav-item {% if page.url contains 'projects' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/projects/' | relative_url }}">{{ "projects" }}
                   {%- if page.url contains 'projects' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- Games -->
+              <li class="nav-item {% if page.url contains 'games' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/games/' | relative_url }}">{{ "games" }}
+                  {%- if page.url contains 'games' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
